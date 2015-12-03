@@ -1,0 +1,35 @@
+Traceback (most recent call last):
+  File "/home/flavio/python3/curso/workspace/TreinaPython/src/try.py", line 8, in <module>
+    list.append(int(input("Digite um valor: ")))
+  File "/home/flavio/.p2/pool/plugins/org.python.pydev_4.4.0.201510052309/pysrc/pydev_sitecustomize/sitecustomize.py", line 141, in input
+    return eval(raw_input(prompt))
+  File "<string>", line 1, in <module>
+NameError: name 'x' is not defined
+Traceback (most recent call last):
+  File "/home/flavio/python3/curso/workspace/TreinaPython/src/try.py", line 8, in <module>
+    list.append(int(input("Digite um valor: ")))
+  File "/home/flavio/.p2/pool/plugins/org.python.pydev_4.4.0.201510052309/pysrc/pydev_sitecustomize/sitecustomize.py", line 141, in input
+    return eval(raw_input(prompt))
+  File "<string>", line 1, in <module>
+NameError: name 'z' is not defined
+Traceback (most recent call last):
+  File "/home/flavio/python3/curso/workspace/TreinaPython/src/try.py", line 8, in <module>
+    list.append(int(input("Digite um valor: ")))
+  File "/home/flavio/.p2/pool/plugins/org.python.pydev_4.4.0.201510052309/pysrc/pydev_sitecustomize/sitecustomize.py", line 141, in input
+    return eval(raw_input(prompt))
+  File "<string>", line 1, in <module>
+NameError: name 'a' is not defined
+Traceback (most recent call last):
+  File "/home/flavio/python3/curso/workspace/TreinaPython/src/try.py", line 8, in <module>
+    list.append(int(input("Digite um valor: ")))
+  File "/home/flavio/.p2/pool/plugins/org.python.pydev_4.4.0.201510052309/pysrc/pydev_sitecustomize/sitecustomize.py", line 141, in input
+    return eval(raw_input(prompt))
+  File "<string>", line 1, in <module>
+NameError: name 's' is not defined
+Traceback (most recent call last):
+  File "/home/flavio/python3/curso/workspace/TreinaPython/src/try.py", line 8, in <module>
+    list.append(int(input("Digite um valor: ")))
+  File "/home/flavio/.p2/pool/plugins/org.python.pydev_4.4.0.201510052309/pysrc/pydev_sitecustomize/sitecustomize.py", line 141, in input
+    return eval(raw_input(prompt))
+  File "<string>", line 1, in <module>
+NameError: name 'd' is not defined
